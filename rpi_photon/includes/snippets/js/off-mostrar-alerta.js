@@ -1,1 +1,0 @@
-alert('Snippet desde js');
